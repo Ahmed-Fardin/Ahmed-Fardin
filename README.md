@@ -2,7 +2,7 @@
 
 **Data Analyst | SQL | Python | Power BI**
 
-Data Analyst focused on transforming raw data into actionable insights through data analysis, business intelligence, and interactive dashboards.
+Data Analyst focused on transforming raw data into actionable insights through exploratory data analysis, business intelligence, and interactive dashboards.
 
 ### Skills
 Python · SQL · PostgreSQL · Power BI · DAX · Excel · Pandas · NumPy
@@ -20,7 +20,7 @@ Retail performance and supply chain analytics.
 
 ### Certifications
 Google Advanced Data Analytics Professional Certificate  
-Microsoft Power BI Data Analyst program
+Microsoft Power BI Data Analyst Professional Certificate
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/fardin-ahmed-0888b1289) | [Kaggle](https://www.kaggle.com/fardinahm3d)
+[Email](fardinahmedy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fardin-ahmed-0888b1289) | [Kaggle](https://www.kaggle.com/fardinahm3d)
