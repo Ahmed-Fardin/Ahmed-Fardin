@@ -16,6 +16,10 @@ Digital wallet analytics across Southeast Asia.
 **[E-Commerce Retail Supply](https://github.com/Ahmed-Fardin/E-Commerce-Retail-Supply)**  
 Retail performance and supply chain analytics.
 
+### Data Science & Machine Learning Projects
+
+**[SteamPulse](https://github.com/Ahmed-Fardin/SteamPulse)**
+
 ### Certifications
 Google Advanced Data Analytics Professional Certificate  
 Microsoft Power BI Data Analyst Professional Certificate
