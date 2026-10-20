@@ -20,9 +20,5 @@ Retail performance and supply chain analytics.
 
 **[SteamPulse](https://github.com/Ahmed-Fardin/SteamPulse)**
 
-### Certifications
-Google Advanced Data Analytics Professional Certificate  
-Microsoft Power BI Data Analyst Professional Certificate
-
 ### Connect
 [Email](fardinahmedy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fardin-ahmed-0888b1289) | [Kaggle](https://www.kaggle.com/fardinahm3d)
