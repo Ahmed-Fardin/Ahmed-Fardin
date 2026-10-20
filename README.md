@@ -1,5 +1,3 @@
-# Fardin Ahmed
-
 **Data Analyst | SQL | Python | Power BI**
 
 Data Analyst focused on transforming raw data into actionable insights through exploratory data analysis, business intelligence, and interactive dashboards.
@@ -7,7 +5,7 @@ Data Analyst focused on transforming raw data into actionable insights through e
 ### Skills
 Python · SQL · PostgreSQL · Power BI · DAX · Excel · Pandas · NumPy
 
-### Featured Projects
+### Data Analytics Projects
 
 **[Global Banking Intelligence Platform](https://github.com/Ahmed-Fardin/Global-Banking-Intelligence-Platform)**  
 Banking and economic data analysis with interactive dashboards.
