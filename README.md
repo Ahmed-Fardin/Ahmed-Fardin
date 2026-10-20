@@ -1,16 +1,26 @@
-## Hi there 👋
+# Fardin Ahmed
 
-<!--
-**Ahmed-Fardin/Ahmed-Fardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SQL | Python | Power BI**
 
-Here are some ideas to get you started:
+Data Analyst focused on transforming raw data into actionable insights through data analysis, business intelligence, and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+Python · SQL · PostgreSQL · Power BI · DAX · Excel · Pandas · NumPy
+
+### Featured Projects
+
+**[Global Banking Intelligence Platform](https://github.com/Ahmed-Fardin/Global-Banking-Intelligence-Platform)**  
+Banking and economic data analysis with interactive dashboards.
+
+**[WalletWatch](https://github.com/Ahmed-Fardin/WalletWatch)**  
+Digital wallet analytics across Southeast Asia.
+
+**[E-Commerce Retail Supply](https://github.com/Ahmed-Fardin/E-Commerce-Retail-Supply)**  
+Retail performance and supply chain analytics.
+
+### Certifications
+Google Advanced Data Analytics Professional Certificate  
+Microsoft Power BI Data Analyst program
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/fardin-ahmed-0888b1289) | [Kaggle](https://www.kaggle.com/fardinahm3d)
